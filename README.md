@@ -7,6 +7,7 @@
 -    <body>
 -         <p> 👀 I’m interested in programming 
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT 
-- 💞️ I’m looking to collaborate on any project </p>
+- 💞️ I’m looking to collaborate on any project 
+          </p>
 -    </body>
 - </html>
