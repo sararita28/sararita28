@@ -1,0 +1,12 @@
+- <!DOCTYPE html>
+- <html>
+-    <head>
+-         <title> About Me</title>
+-         <h1> 👋 Hi, I’m @sararita28 </h1>
+-    </head>
+-    <body>
+-         <p> 👀 I’m interested in programming 
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT 
+- 💞️ I’m looking to collaborate on any project </p>
+-    </body>
+- </html>
