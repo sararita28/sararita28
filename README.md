@@ -3,7 +3,7 @@
 ## I'm a Self-taught software developer
 
 👀 I’m interested in all things <strong>programming, problem-solving and designing </strong> </br>
-🌱 I’m currently getting better at <strong>Javascript</strong> , learning <strong>Node</strong> and <strong>MongoDB</strong> </br>
+🌱 I’m currently getting better at <strong>Javascript</strong> and <strong>Data structures</strong> </br>
 💞️ I’m looking to collaborate on any project <strong>as long as I can help and/or learn</strong> along the way </br>
 🥅 My 2022 Goals: <strong> Contribute more to Open Source </strong> projects </br>
 
