@@ -28,6 +28,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png" />
+<img align="left" alt="Firebase" width="26px" src="https://i.pinimg.com/736x/07/ca/4a/07ca4afbde70ce0c995b3f63e9c04ceb.jpg" />
 <img align="left" alt="JQuery" width="26px" src="https://ivazz.com/wp-content/uploads/2021/05/jquery-1.png" />
 <img align="left" alt="pug" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSciJWKsGNbo2AMyZEMdnbzyamZMdDdi7XBKoIdEdRJCvOgbbZUwDzvEF9vcSnbu5pziMo&usqp=CAU" />
 <img align="left" alt="postman" width="26px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
