@@ -1,20 +1,16 @@
-### Hi there, I'm Sara 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Sara 
 
-## I'm a Self-taught software developer
 
-👀 I’m interested in all things <strong>programming, problem-solving and designing </strong> </br>
-🌱 I’m currently getting better at <strong>Javascript</strong> and <strong>Data structures</strong> </br>
-💞️ I’m looking to collaborate on any project <strong>as long as I can help and/or learn</strong> along the way </br>
-🥅 My 2022 Goals: <strong> Contribute more to Open Source </strong> projects </br>
+## I'm a self-taught software developer
 
-### Connect with me:
-
-[<img align="left" alt="mywebsite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mylinkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+👀       I’m interested in all things <b>programming, problem-solving and designing </b> </br>
+🌱 I’m currently brushing up my <b>Javascript</b> and <b>Data structures</b> skills </br>
+🤝 I’m looking to collaborate on any project <b>as long as I can help and/or learn</b> along the way </br>
+🥅 My 2022 goals are to: <b> Contribute more to Open Source </b> projects and <b>become a better backend programmer</b> </br>
 
 <br />
 
-### TechStack:
+### My TechStack:
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -37,7 +33,18 @@
 <br />
 <br />
 
----
+
+### Connect with me:
+
+[<img align="left" alt="mywebsite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mylinkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
+
 
 [website]: http://
 [linkedin]: https://www.linkedin.com/in/sara-hilali-57a889232/
+
+---
+
