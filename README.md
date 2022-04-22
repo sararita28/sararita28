@@ -21,7 +21,7 @@
         <span align="center"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></span>
       </td>
       <td align="center">React<br>
-        <span align="center" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/></span>
+        <span align="center" ><img src="https://img.icons8.com/color/48/react-native.png"/></span>
       </td>
       <td align="center"> <span style="color:green">Kotlin</span><br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/kotlin.png" width="48"/></span>
@@ -36,19 +36,19 @@
         <span align="center"><img src="https://img.icons8.com/color/48/000000/json-download.png"/> </span>
       </td>
       <td align="center">MongoDB<br>
-        <span align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3629020-3030245.png"/></span>
+        <span align="center"><img src="https://img.icons8.com/color/48/mongodb.png"/></span>
       </td>
       <td align="center">Android Studio<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/android-studio.png"/></span>
       </td>
       <td align="center">NodeJS<br>
-        <span align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/></span>
+        <span align="center"><img src="https://img.icons8.com/fluency/48/node-js.png"/></span>
       </td>
       <td align="center">Firebase<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></span>
       </td>
         <td align="center">VSCode<br>
-        <span align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="48"/></span>
+        <span align="center"><img src="https://img.icons8.com/fluency/48/visual-studio.png"/></span>
       </td>
       <td align="center">NPM<br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/npm.png"/></span>
@@ -60,19 +60,19 @@
         <span align="center"><img src="https://img.icons8.com/color/48/000000/github.png"/></span>
       </td>
       <td align="center">Bootstrap<br>
-        <span align="center"><img src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"/></span>
+        <span align="center"><img src="https://img.icons8.com/color/48/bootstrap.png"/></span>
       </td>
       <td align="center">JQuery<br>
-        <span align="center"><img src="https://ivazz.com/wp-content/uploads/2021/05/jquery-1.png"/></span>
+        <span align="center"><img src="https://img.icons8.com/ios/48/jquery.png"/></span>
       </td>
       <td align="center">pug<br>
-        <span align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSciJWKsGNbo2AMyZEMdnbzyamZMdDdi7XBKoIdEdRJCvOgbbZUwDzvEF9vcSnbu5pziMo&usqp=CAU"/></span>
+        <span align="center"><img src="https://img.icons8.com/color/48/pug.png"/></span>
       </td>
       <td align="center">Postman<br>
-        <span align="center"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"/></span>
+        <span align="center"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="48"/></span>
       </td>
       <td align="center">JWT<br>
-        <span align="center"><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg"/></span>
+        <span align="center"><img src="https://img.icons8.com/color/48/java-web-token.png"/></span>
       </td>
     </tr>   
   </tbody>
