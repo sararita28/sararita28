@@ -93,7 +93,7 @@
 <br />
 
 [website]: https://sarahilali.netlify.app/index.html
-[linkedin]: https://www.linkedin.com/in/sara-hilali-57a889232/
+[linkedin]: https://www.linkedin.com/in/sara-hilali/
 [github]: https://github.com/sararita28/
 
 ---
