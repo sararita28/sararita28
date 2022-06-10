@@ -23,6 +23,9 @@
       <td align="center">React<br>
         <span align="center" ><img src="https://img.icons8.com/color/48/react-native.png"/></span>
       </td>
+      <td align="center">React Native<br>
+        <span align="center" ><img src="https://repository-images.githubusercontent.com/78664391/f7e46780-6bf6-11eb-999f-8212c69d76bc"/></span>
+      </td>
       <td align="center"> <span style="color:green">Kotlin</span><br>
         <span align="center"><img src="https://img.icons8.com/color/48/000000/kotlin.png" width="48"/></span>
       </td>
